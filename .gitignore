@@ -2,3 +2,5 @@
 /.project
 /buck-cache
 /buck-out
+*.iml
+*.idea
