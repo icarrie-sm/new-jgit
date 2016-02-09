@@ -26,6 +26,9 @@ import org.eclipse.jgit.internal.JGitText;
  * @author rob@iharder.net
  * @version 2.1, stripped to minimum feature set used by JGit.
  */
+/*
+	Ian Carrie --- totally meaningless change
+ */
 public class Base64 {
 	/** The equals sign (=) as a byte. */
 	private final static byte EQUALS_SIGN = (byte) '=';
